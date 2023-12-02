@@ -4,7 +4,7 @@
 
 **Lightweight** draw border container **< 10k** 😎 <br>
 Compatible with React, Vue, Angular & other frameworks.
-Add your content with <slot/>.
+Add your content with a slot element.
 Customizable Border color.
 
 ![amazing-border](https://github.com/gshohat/web-component-amazing-border/assets/91323932/7c5dd9e0-fa71-4f82-840d-ae0342f6da70)

@@ -1,0 +1,54 @@
+{
+  "name": "web-component-amazing-border",
+  "version": "1.0.0",
+  "author": "Gilad Shohat",
+  "description": "lightweight animated border container",
+  "homepage": "https://github.com/gshohat/web-component-amazing-border#readme",
+  "license": "MIT",
+  "main": "./dist/amazing-border.umd.js",
+  "module": "./dist/amazing-border.es.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/amazing-border.es.js",
+      "require": "./dist/amazing-border.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "path": "^0.12.7",
+    "vite": "^4.4.6"
+  },
+  "keywords": [
+    "vue",
+    "react",
+    "angular",
+    "cross framework",
+    "web component",
+    "component",
+    "customizable",
+    "lightweight",
+    "front-end",
+    "vanilla",
+    "content",
+    "border",
+    "animation",
+    "line",
+    "loading",
+    "container",
+    "dash",
+    "stroke",
+    "offset",
+    "draw"
+  ]
+}
+
+

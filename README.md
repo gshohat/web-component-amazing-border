@@ -2,7 +2,7 @@
 
 ![NPM License](https://img.shields.io/npm/l/web-component-amazing-border)
 
-**Lightweight** draw border container **< 10k** 😎 <br>
+**Lightweight** draw border container **< 5k** 😎 <br>
 Compatible with React, Vue, Angular & other frameworks.
 Add your content with a slot element.
 Customizable Border color.

@@ -7,6 +7,9 @@ Compatible with React, Vue, Angular & other frameworks.
 Add your content with <slot/>.
 Customizable Border color.
 
+![amazing-border](https://github.com/gshohat/web-component-amazing-border/assets/91323932/aea14d8d-5b08-46c1-a320-e1bf1d951489)
+
+
 ## Vue usage
 
 `npm i web-component-amazing-border`
